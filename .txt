@@ -1,0 +1,14 @@
+ auto_usate 
+    id: UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    marca: VARCHAR(255),
+    modello: VARCHAR(255)
+    anno_immatricolazione: YEAR,
+    chilometraggio: INT UNSIGNED,
+    carburante: ENUM("Benzina", "Diesel", "GPL", "Elettrica", "Ibrida"),
+    cambio: ENUM("MANUALE", "AUTOMATICO"),
+    colore: VARCHAR(255)
+    prezzo: DECIMAL(10,2)
+    numero_porte: TINYINT UNSIGNED,
+    descrizione: TEXT,
+    targa: VARCHAR(255),
+    data_inserimento: TIMESTAMP 
