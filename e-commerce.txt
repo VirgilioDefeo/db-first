@@ -1,0 +1,2 @@
+abbiamo degli ordini 
+ogni ordine colegato al dipendente e un cliente. ogni ordine puo avere diversi prodotti e il relativo pagamento

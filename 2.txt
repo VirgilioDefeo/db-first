@@ -1,0 +1,7 @@
+database di libri 
+ogni libro ha dei generi e x numero di copie 
+ogni copia puo essere prestata piu volte a utenti diversi
+
+libriutenti
+prestiti
+generi
